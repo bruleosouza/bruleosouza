@@ -105,6 +105,7 @@ Requirements gathering, functional specifications, test planning, incident analy
 
 ## 🎓 Education
 
+- **Master's studies in Electrical Engineering** — University of Campinas (UNICAMP).
 - **Bachelor's degree in Telecommunications Engineering** — University of Campinas (UNICAMP).
 
 ## 🌎 Languages
@@ -115,3 +116,11 @@ Portuguese (native) · English (advanced) · Spanish (fluent) · French (basic) 
 
 **Let's connect about QA Automation, SDET, and AI Testing.**  
 [LinkedIn](https://www.linkedin.com/in/bruleosouza/) · [bruleosouza@outlook.com](mailto:bruleosouza@outlook.com)
+
+## 🐍 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruleosouza/bruleosouza/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruleosouza/bruleosouza/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/bruleosouza/bruleosouza/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
